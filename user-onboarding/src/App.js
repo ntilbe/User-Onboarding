@@ -11,8 +11,8 @@ import * as yup from 'yup'
 //REMOVE THIS
 const inititalUserList = [
   {
-    name: 'Alex Williams',
-    email: 'alexjwilliams1@gmail.com',
+    name: 'Nicole Tilbe',
+    email: 'nicoletilbe1@gmail.com',
     password: 'password',
     terms: true
   }
